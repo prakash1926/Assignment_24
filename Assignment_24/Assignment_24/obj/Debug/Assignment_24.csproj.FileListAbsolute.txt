@@ -1,0 +1,7 @@
+C:\Users\abdul\source\repos\Assignment-23\Assignment_24\Assignment_24\Assignment_24\bin\Debug\Assignment_24.exe.config
+C:\Users\abdul\source\repos\Assignment-23\Assignment_24\Assignment_24\Assignment_24\bin\Debug\Assignment_24.exe
+C:\Users\abdul\source\repos\Assignment-23\Assignment_24\Assignment_24\Assignment_24\bin\Debug\Assignment_24.pdb
+C:\Users\abdul\source\repos\Assignment-23\Assignment_24\Assignment_24\Assignment_24\obj\Debug\Assignment_24.csproj.AssemblyReference.cache
+C:\Users\abdul\source\repos\Assignment-23\Assignment_24\Assignment_24\Assignment_24\obj\Debug\Assignment_24.csproj.CoreCompileInputs.cache
+C:\Users\abdul\source\repos\Assignment-23\Assignment_24\Assignment_24\Assignment_24\obj\Debug\Assignment_24.exe
+C:\Users\abdul\source\repos\Assignment-23\Assignment_24\Assignment_24\Assignment_24\obj\Debug\Assignment_24.pdb
